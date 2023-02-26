@@ -1,34 +1,31 @@
 body{
-    background-color: #CACFE866;
-    
+    background-color: #212121;
+    color: #FFFFFF;
 }
-
 
 /* Navbar Start  */
 
 .menu-items li a{ 
-    color: #21264A !important;
+    color: #FFFFFF !important;
     margin-left: 20px;
     font-weight: 700;
 }
 
 .navbar-social-media-circle{
-    color: #1B6B84;  
+    color: #FFFFFF;  
 }
-
 
 /* Navbar End */
 
 /* Header Start */
 
 .header-main{
-background-color: #104454;
-
+    background-color: #000000;
 }
 
 .header-top-title
 {
-    color: #EF6D58;
+    color: #FFA726;
 }
 
 .header-text{
@@ -36,7 +33,7 @@ background-color: #104454;
 }
 
 .header-button{
-    background-color: #1B6B84;
+    background-color: #FFA726;
     size: 14px;
     font-weight: 600;
     border-radius: 10px;
@@ -48,31 +45,37 @@ background-color: #104454;
     margin-top: 100px;
 }
 .about-title{
-    color: #391400;
+    color: #FFA726;
     font-weight: bold;
 }
 .about-subtitle{
-    color:#391400 ;
+    color:#FFA726 ;
     font-size: 20px;
 }
 
 .about-text{
-    color: #391400A3;
+    color: #FFFFFF;
     font-weight: 600;
 }
 
 .button-light{
-    color: #391400 !important;
+    color: #FFFFFF !important;
     border-radius: 8px;
     size: 20px;
     font-weight: 700;
-    background-color: #FFFFFF;
+    background-color: #FFA726;
 }
 /* About End */
 
 /* How We Work Start */
 .how-work{
-margin-top: 140px;
+    margin-top: 140px;
 }
 
 /* How We Work End */
+
+/* Features Start  */
+.features{
+    margin-top: 150px;
+}
+/* Features End */
